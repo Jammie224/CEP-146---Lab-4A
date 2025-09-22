@@ -1,2 +1,11 @@
 # CEP-146---Lab-4A
-testing repo for the class demo
+
+## **Jammie Chen**
+
+### Favorite Hobby
+#### *Sports & Fitness.*
+
+### A list of three things my enjoy doing
+- Watch movies
+- Read novels
+- Go shopping
